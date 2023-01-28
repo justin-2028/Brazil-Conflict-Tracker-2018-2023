@@ -3,7 +3,7 @@
 ![](https://lh3.googleusercontent.com/WQLJZbrcPRbPpvcOxYxGm_NPkiuAtKnSiqQag83G9Lf-23MGYNZelcTvzCewYPuk3MjHsQuCArJYQAK3F63mMuXgh_32ZGyAjn6yKZ0fEDIdxfmDvE_YZ0vA2Yea82kXH1FZFxn2dg=w2400)
 
 # DAY 1846 (January 1st, 2018 - January 20th, 2023)
-This is a dataset that tracks both non-violent and violent conflicts in Brazil since 2018.
+This is a dataset that tracks **both non-violent and violent** conflicts in Brazil since 2018. **The January 8th invasion of Brazil's National Congress** by Jair Bolsonaro supporters served as inspiration for this dataset.
 
 All data are official figures from the **Armed Conflict Location & Event Data Project (ACLED)** that have been compiled and structured by myself. The latest snapshot used from ACLED's *Latin America & the Caribbean* dataset was its January 20th, 2023 update and was last accessed on January 28th, 2023. From the regional dataset, conflict data from countries outside of Brazil were removed, along with ID-related variables provided by ACLED that offered minimal potential for statistical analysis.
 
