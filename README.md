@@ -34,8 +34,7 @@ All data are official figures from the **Armed Conflict Location & Event Data Pr
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/brazil-conflict-tracker-20182023) - The same data but on Kaggle.
 
 # Code Starter
-[Daily Data and Plot Example](https://www.kaggle.com/code/justin2028/daily-statistics-of-2022-iran-protests)
-Important: Each new record is accumulated data from previous days.
+[Link to Notebook](https://www.kaggle.com/code/justin2028/conflicts-in-brazil-2018-2023-code-starter)
 
 # Acknowledgements
 Thank you once again to ACLED for enabling access keys to the necessary data!
