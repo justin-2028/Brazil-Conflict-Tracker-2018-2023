@@ -31,7 +31,7 @@ All data are official figures from the **Armed Conflict Location & Event Data Pr
 # Dataset History
 2023-01-28 - dataset is created (1854 days after temporal coverage start date).
 
-[GitHub Repository](https://github.com/justin-2028/Daily-Statistics-of-the-2022-Iran-Protests) - The same data but on GitHub.
+[Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/brazil-conflict-tracker-20182023) - The same data but on Kaggle.
 
 # Code Starter
 [Daily Data and Plot Example](https://www.kaggle.com/code/justin2028/daily-statistics-of-2022-iran-protests)
