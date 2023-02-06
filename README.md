@@ -29,7 +29,7 @@ All data are official figures from the **Armed Conflict Location & Event Data Pr
 - FATALITIES: The number of reported fatalities that occurred during the conflict.
 
 # Dataset History
-2023-01-28 - dataset is created (1854 days after temporal coverage start date).
+2023-01-28 - Dataset is created (1854 days after temporal coverage start date).
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/brazil-conflict-tracker-20182023) - The same data but on Kaggle.
 
